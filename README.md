@@ -35,6 +35,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/yessine09/yessine09/output/snake.svg" alt="Snake animation" />
 
 ###
 
